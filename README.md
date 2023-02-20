@@ -1,1 +1,1 @@
-# Examen_informatica
+# Ejemplo Paso a Paso

@@ -2,6 +2,11 @@
 
 En este [repositorio](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso) queda resuelto el ejercicio de descarga de imágenes en asíncrono.
 
+
+<h2 align = "center">Código para resolverlo</h2>
+
+***
+
 El código empleado para resolverlo es el siguiente:
 
 ```python
@@ -80,3 +85,21 @@ if __name__ == "__main__": # Si es el archivo principal
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy()) # Establecemos el bucle de eventos
     asyncio.run(main()) # Ejecutamos la función principal
 ```
+<h2 aling="center">Ejemplo aplicado</h2>
+
+***
+
+En este caso he utilizado la siguiente [URL](http://jardinesrinconcillo.com/)
+
+![image](https://user-images.githubusercontent.com/91721855/222587430-14efad6a-466f-446f-a1c8-a157ae7b412e.png)
+
+
+Con lo que se han descargado de la web las siguientes imágenes:
+
+![Gif](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso/blob/main/loading.gif)
+
+![Logo2](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso/blob/main/logo_arbol_verde_v2.png)
+
+![Plano](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso/blob/main/plano.png)
+
+![Logo](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso/blob/main/logo.png)

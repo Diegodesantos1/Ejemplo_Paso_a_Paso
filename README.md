@@ -85,7 +85,7 @@ if __name__ == "__main__": # Si es el archivo principal
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy()) # Establecemos el bucle de eventos
     asyncio.run(main()) # Ejecutamos la función principal
 ```
-<h2 aling="center">Ejemplo aplicado</h2>
+<h2 align = "center">Ejemplo contrastando asincronía y no asincronía</h2>
 
 ***
 

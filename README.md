@@ -202,7 +202,7 @@ Con lo que se han descargado de la web las siguientes imágenes:
 
 ![Logo](https://github.com/Diegodesantos1/Ejemplo_Paso_a_Paso/blob/main/logo.png)
 
-EL tiempo de ejecución en asíncrono ha sido:
+El tiempo de ejecución en asíncrono ha sido:
 
 ![image](https://user-images.githubusercontent.com/91721855/222745909-ccb69643-fd87-4a7d-8f42-0ee9130f2d46.png)
 
